@@ -1,1 +1,3 @@
-# tela-login-1
+# Template de um formulário de login
+
+Tela de login responsiva
